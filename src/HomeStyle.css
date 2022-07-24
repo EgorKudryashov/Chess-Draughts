@@ -1,0 +1,28 @@
+.home {
+  width: 50vw;
+  height: 90vh;
+  margin: auto;
+  border-color: black;
+  border: 20px;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 25vw;
+  height: 50%;
+  border-radius: 50%;
+}
+
+.btn {
+  margin-top: 5%;
+  font-size: x-large;
+  width: 25vw;
+  height: 15vh;
+  background-color: rgb(225, 220, 235);
+  border-radius: 3%;
+  border-color: rgb(21, 5, 36);
+  cursor: pointer;
+}
